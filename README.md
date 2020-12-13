@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 -->
 
 `https://github.com/SxNade`
-
-![Capture](https://www.pixelstalk.net/wp-content/uploads/2016/04/Motivational-wallpaper-study-images-desktop-620x349.jpg)
