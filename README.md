@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 `https://github.com/SxNade`
 
-![capture](https://github.githubassets.com/images/modules/site/home/astro-mona.jpg)
+![capture](https://raw.githubusercontent.com/SxNade/SxNade/main/astro-mona-removebg-preview.png)
