@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 -->
 
 `https://github.com/SxNade`
+
+![capture](https://github.githubassets.com/images/modules/site/home/astro-mona.jpg)
