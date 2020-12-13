@@ -1,7 +1,8 @@
 ### Glad To See You Here! 👋
 
 
-![Capture](https://wallpaperaccess.com/full/1889973.jpg)
+![capture](https://raw.githubusercontent.com/SxNade/SxNade/main/astro-mona-removebg-preview.png)
+
 
 
 Here are some ideas to get you started:
@@ -18,4 +19,4 @@ Here are some ideas to get you started:
 
 `https://github.com/SxNade`
 
-![capture](https://raw.githubusercontent.com/SxNade/SxNade/main/astro-mona-removebg-preview.png)
+![Capture](https://wallpaperaccess.com/full/1889973.jpg)
