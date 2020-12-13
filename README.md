@@ -1,7 +1,7 @@
 ### Here is what I am working On! 👋
 
 
-![Capture](https://i.pinimg.com/originals/ca/a2/65/caa2654e79e2dc88c6a3c18e1a353452.jpg)
+![Capture](https://wallpaperaccess.com/full/1889973.jpg)
 
 
 Here are some ideas to get you started:
