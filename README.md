@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...Stay at 127.0.0.1 wear a 255.255.255.0
 -->
 
-
-![Capture](https://wallpaperaccess.com/full/2323341.jpg)
-
 `https://github.com/SxNade`
 
 ![Capture](https://www.pixelstalk.net/wp-content/uploads/2016/04/Motivational-wallpaper-study-images-desktop-620x349.jpg)
