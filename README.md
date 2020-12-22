@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...Stay at 127.0.0.1 wear a 255.255.255.0
 -->
 
+
 `https://github.com/SxNade`
+
+![Capture](https://i.pinimg.com/originals/d4/73/a1/d473a1d6d867e8896dc3893e3db5b44a.gif)
+
 
 ![Capture](https://wallpaperaccess.com/full/1889973.jpg)
