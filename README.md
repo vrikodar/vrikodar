@@ -1,7 +1,7 @@
 ### Glad To See You Here! 👋
 
 
-![capture](https://giphy.com/gifs/hacker-anonymous-hacktivist-xTcnSWYZvafyhEACBO)
+![capture](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e1508d5d-b1b0-441d-9ede-213a21b55fb0/ddz11gp-164e0a37-23c6-4e60-9551-c42620a3074e.gif)
 
 
 
