@@ -1,7 +1,7 @@
 ### Glad To See You Here! 👋
 
 
-![capture](https://steamuserimages-a.akamaihd.net/ugc/934935974430423573/F283E06FE8FBE862B242092DC93BE691AA8273EA/)
+![capture](https://giphy.com/gifs/hacker-anonymous-hacktivist-xTcnSWYZvafyhEACBO)
 
 
 
