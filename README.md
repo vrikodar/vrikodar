@@ -1,7 +1,7 @@
 ### Glad To See You Here! 👋
 
 
-![capture](https://cdn.idntimes.com/content-images/post/20200314/0-9b3707466f12e152e67a22fb1dcb6afc_600x400.gif)
+![capture](https://media.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif)
 
 
 
