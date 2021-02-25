@@ -1,8 +1,7 @@
 ### Glad To See You Here! 👋
 
 
-![capture](https://data.whicdn.com/images/251083532/original.gif)
-
+![capture](http://pa1.narvii.com/5794/d61c9da89a73c3760d67cea6cc41b10c9312842d_00.gif)
 
 
 Here are some ideas to get you started:
