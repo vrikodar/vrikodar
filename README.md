@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-**I am not allowed to watch deadpool**
+**I am not allowed to watch deadpool in cinema**
 - 🔭 I’m currently working on ...Efficient Learning
 - 🌱 I’m currently learning ...Coding, Networking, Hacking
 - 👯 I’m looking to collaborate on ...Coding Projects Related To Security
