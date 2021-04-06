@@ -3,9 +3,6 @@
 
 ![capture](http://pa1.narvii.com/5794/d61c9da89a73c3760d67cea6cc41b10c9312842d_00.gif)
 
-`YOU ARE WELCOMED TO JOIN MY GROUP NAMED EagleSecurity`
-
-![Capture](https://github.com/SxNade/SxNade/blob/main/Egl.png)
 
 Here are some ideas to get you started:
 
