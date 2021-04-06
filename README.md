@@ -3,10 +3,12 @@
 
 ![capture](http://pa1.narvii.com/5794/d61c9da89a73c3760d67cea6cc41b10c9312842d_00.gif)
 
+`YOU ARE WELCOMED TO JOIN MY GROUP NAMED EagleSecurity`
+
 
 Here are some ideas to get you started:
 
-**I am not allowed to watch deadpool in cinema**
+**I am not allowed to watch deadpool**
 - 🔭 I’m currently working on ...Efficient Learning
 - 🌱 I’m currently learning ...Coding, Networking, Hacking
 - 👯 I’m looking to collaborate on ...Coding Projects Related To Security
