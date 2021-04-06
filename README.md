@@ -5,6 +5,7 @@
 
 `YOU ARE WELCOMED TO JOIN MY GROUP NAMED EagleSecurity`
 
+![Capture](https://github.com/SxNade/SxNade/blob/main/Egl.png)
 
 Here are some ideas to get you started:
 
