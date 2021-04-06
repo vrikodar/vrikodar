@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 ![Capture](https://i.pinimg.com/originals/d4/73/a1/d473a1d6d867e8896dc3893e3db5b44a.gif)
 
 
-![Capture](https://wallpaperaccess.com/full/1889973.jpg)
+
 
