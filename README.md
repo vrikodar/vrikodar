@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Stay at 127.0.0.1 wear a 255.255.255.0
 
+     **THANK-YOU EVERYONE FOR SUPPORTING IT IS REALLY HELPFUL!!!**
+
 --> *LEARNING A LOT*
 
 
