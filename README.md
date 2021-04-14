@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 **I am not allowed to watch deadpool**
 - 🔭 I’m currently working on ...Efficient Learning
-- 🌱 I’m currently learning ...Coding, Networking, Hacking
-- 👯 I’m looking to collaborate on ...Coding Projects Related To Security
+- 🌱 I’m currently learning ...Everything
+- 👯 I’m looking to collaborate on ...Anything
 - 🤔 I’m looking for help with ...Anything
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...SxNade@protonmail.com
