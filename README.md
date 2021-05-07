@@ -6,7 +6,7 @@
 
 </p>
 
-![capture](http://pa1.narvii.com/5794/d61c9da89a73c3760d67cea6cc41b10c9312842d_00.gif)
+![capture](https://github.com/SxNade/SxNade/blob/main/init.gif)
 
 
 Here are some ideas to get you started:
