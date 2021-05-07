@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...Stay at 127.0.0.1 wear a 255.255.255.0
 
 - **LIKE MY REPOS?:: SHOW SUPPORT BY CLICKING ON THE STAR**
-
+<p align="center">
+<img src=https://github-readme-stats.vercel.app/api?username=SxNade&show_icons=true&hide_title=true&theme=midnight-purple&text_color=FF9DD9&bg_color=0d1117&count_private=true&include_all_commits=true&hide_border=true>
+</p>
 
      **THANK-YOU EVERYONE FOR SUPPORTING IT IS REALLY HELPFUL!!!**
 
