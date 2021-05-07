@@ -3,7 +3,7 @@
 <p align="center"> 
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=SxNade&layout=compact&text_color=fe9cd8&title_color=fe9cd8&bg_color=0d1117&count_private=true&include_all_commits=true&hide_border=true&langs_count=10></p>
 
-<<p align="right"> 
+<p align="right"> 
 <img src=https://github-readme-stats.vercel.app/api?username=SxNade&show_icons=true&hide_title=true&theme=midnight-purple&text_color=FF9DD9&bg_color=0d1117&count_private=true&include_all_commits=true&hide_border=true></p>
 
 
