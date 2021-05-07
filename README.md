@@ -25,11 +25,6 @@ Here are some ideas to get you started:
 
 - **LIKE MY REPOS?:: SHOW SUPPORT BY CLICKING ON THE STAR**
 
-     **THANK-YOU EVERYONE FOR SUPPORTING IT IS REALLY HELPFUL!!!**
-
---> *LEARNING A LOT*
-
-
 
 `https://github.com/SxNade`
 
