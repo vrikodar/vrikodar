@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 
 - **LIKE MY REPOS?:: SHOW SUPPORT BY CLICKING ON THE STAR**
 
+**NOTE** : My repositories are only hosted on my offcial github page https://github.com/SxNade and May be refered on other page at https://SxNade.github.io , If you find some-body else claiming or posting them on some-kind of website social media etc.. Don't Trust it. I never publish anything about my repos on any other platform than my official github page  https://github.com/SxNade or at https://SxNade.github.io
+
+
 
 `https://github.com/SxNade`
 
