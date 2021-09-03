@@ -8,7 +8,7 @@
 
 
 
-![capture](https://github.com/SxNade/SxNade/blob/main/init.gif)
+![capture](https://github.com/SxNade/SxNade/blob/main/i.svg)
 
 - 📫 How to reach me: ...SxNade@protonmail.com
 - 😄 Pronouns: ...He/Him
@@ -23,6 +23,6 @@
 
 `https://github.com/SxNade`
 
-![Capture](https://github.com/SxNade/SxNade/blob/main/i.svg)
+![Capture]()
 
 --> https://github.com/SxNade/SxNade/blob/main/mp4.gif <--
