@@ -23,6 +23,6 @@
 
 `https://github.com/SxNade`
 
-![Capture](https://i.pinimg.com/originals/d4/73/a1/d473a1d6d867e8896dc3893e3db5b44a.gif)
+![Capture](https://github.com/SxNade/SxNade/blob/main/i.svg)
 
 --> https://github.com/SxNade/SxNade/blob/main/mp4.gif <--
