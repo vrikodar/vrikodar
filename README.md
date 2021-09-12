@@ -11,7 +11,6 @@
 - 📫 How to reach me: ...SxNade@protonmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Stay at 127.0.0.1 wear a 255.255.255.0
--  CCNA on its way yeah I am doing it after oscp lol 
 
 - **LIKE MY REPOS?:: SHOW SUPPORT BY CLICKING ON THE STAR**
 
