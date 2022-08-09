@@ -1,11 +1,11 @@
 ### धर्मो रक्षति रक्षित:
 
 ![](https://github.com/SxNade/SxNade.github.io/blob/main/om.gif)
+![](https://github.com/SxNade/SxNade/blob/main/TheSupremeOne.png)
 
 <p align="left"> 
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=SxNade&layout=compact&text_color=fe9cd8&title_color=fe9cd8&bg_color=0d1117&count_private=true&include_all_commits=true&hide_border=true&langs_count=10></p>
 
-![](https://github.com/SxNade/SxNade/blob/main/TheSupremeOne.png)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SxNade&show_icons=true&theme=radical)
 
