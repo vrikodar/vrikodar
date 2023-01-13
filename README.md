@@ -2,6 +2,7 @@
 ### Valor, strength, fortitude, skill in weaponry, resolve never to retreat from battle, large-heartedness in charity, and leadership abilities, these are the natural qualities of work for Kshatriyas. 
 
 ![](https://github.com/SxNade/SxNade.github.io/blob/main/om.gif)
+
 ![](https://github.com/SxNade/SxNade/blob/main/om.jpg)
 
 <p align="left"> 
