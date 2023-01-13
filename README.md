@@ -1,4 +1,5 @@
-### धर्मो रक्षति रक्षित:
+### शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम् | दानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम् || 43||
+### Valor, strength, fortitude, skill in weaponry, resolve never to retreat from battle, large-heartedness in charity, and leadership abilities, these are the natural qualities of work for Kshatriyas. 
 
 ![](https://github.com/SxNade/SxNade.github.io/blob/main/om.gif)
 ![](https://github.com/SxNade/SxNade/blob/main/TheSupremeOne.png)
