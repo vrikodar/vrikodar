@@ -4,7 +4,7 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vrikodar&show_icons=true&theme=radical)
 
-- 📫 How to reach me: ...SxNade@protonmail.com
+- 📫 How to reach me: ...
 
 - **LIKE MY REPOS?:: SHOW SUPPORT BY CLICKING ON THE STAR**
 
